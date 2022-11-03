@@ -28,5 +28,6 @@ namespace API.Models
             Image = animals.Image;
         }
 
+
     }
 }
